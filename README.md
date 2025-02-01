@@ -4,12 +4,12 @@
 ---
 
 ## Features
-- Create your own channel, add banner & channel logo.
-- Upload videos and thumbnails.
-- Like, Subscribe, commit & share.
+- Create your own channel, add a banner & channel logo.
+- Upload videos with thumbnails.
+- Like, subscribe, comment, & share.
 - Fully responsive layout.
-- View/remove history
-- View subscriptions.
+- View & remove watch history.
+- View and manage subscriptions.
 
 ---
 
